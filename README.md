@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaraSun
-- 👀 I’m interested in machine learning.
+- 👀 I’m interested in machine learning, robot navigation.
 - 🌱 I’m currently learning simultaneous localization and mapping(SLAM).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :kikisun2000@gmail.com / 1760234558@qq.com
