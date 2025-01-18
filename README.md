@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaraSun
-- 👀 I’m interested in computer version, robot navigation and embeded system.
+- 👀 I’m  interested in computer vision, robotics, and real-time application development in C++.
 - 🌱 I’m currently learning simultaneous localization and mapping(SLAM).
 - 💞️ I’m looking to collaborate on deploying SLAM on embeded system...
 - 📫 How to reach me :kikisun2000@gmail.com / 1760234558@qq.com
