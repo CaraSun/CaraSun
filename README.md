@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaraSun
 - 👀 I’m  interested in computer vision, robotics, and real-time application development in C++.
-- 🌱 I’m currently learning Simultaneous Localization And Mapping algorithm.
+- 🌱 I’m currently learning Simultaneous Localization And Mapping.
 - 💞️ I’m looking to collaborate on deploying SLAM on embeded system...
 - 📫 How to reach me :kikisun2000@gmail.com / 1760234558@qq.com
 
