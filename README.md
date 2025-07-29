@@ -2,7 +2,7 @@
 - 👀 I’m  interested in computer vision, robotics, and real-time application development in C++.
 - 🌱 I’m currently learning Simultaneous Localization And Mapping.
 - 💞️ I’m looking to collaborate on deploying SLAM on embedded system...
-- 📫 How to reach me :kikisun2000@gmail.com / 1760234558@qq.com
+- 📫 How to reach me :1760234558@qq.com
 
 <!---
 CaraSun/CaraSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
